@@ -1,0 +1,18 @@
+
+.div--scroll{
+    height:50%;
+    width:100%;
+    background-color: $whitesmoke;
+    border: none;
+    overflow: auto;
+}
+
+.div--in{
+   height:100%;
+   background-color: $whitesmoke;
+   color:$off-blue;
+   display:flex;
+   flex-direction: row;
+   
+}
+

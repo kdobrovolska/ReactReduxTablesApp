@@ -1,0 +1,26 @@
+.panel_add{
+    border:2px solid ;
+    border-radius: 25px;
+    border-color: $black;
+    background: linear-gradient(135deg, $light-blue1, $light-blue2); /* Standard syntax (must be last) */
+   
+ }
+
+ .button_common{
+    border-radius: 5px;
+    border:1px solid ;
+    background-color: $light-blue1; //$blue;
+    color: $black;
+    margin:0 12 0 0;
+     min-width: 120px;
+     font: normal 15px/30px  Helvetica,Arial, sans-serif;
+ }
+ 
+ .button_table{
+    height: 40px;
+  }
+ 
+ .button_disable{
+    height: 40px;
+     opacity: 0.3;
+ }

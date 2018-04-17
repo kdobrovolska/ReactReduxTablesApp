@@ -1,0 +1,25 @@
+
+.main{
+    height:100%;
+    width:100%;
+    background-color: $whitesmoke;
+}
+.message{
+    border-radius: 5px;
+    border:2px solid ;
+    color:$black;
+    padding: 10 10 ;
+     position: absolute;
+     top: 30%;
+     left: 30%;
+     width:40%;
+     background-color: $light-green;
+     font-size: 200%;
+     text-align: center;
+     line-height:200%;
+     box-shadow: 10px 10px 10px $gray ;
+ }
+ .message-error{
+    background-color: $light-red; 
+ }
+
